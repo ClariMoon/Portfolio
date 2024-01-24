@@ -8,7 +8,9 @@
 Sou formada em Engenharia Química e já atuei como Engenheira de Processos em uma fábrica de bens de consumo. Atualmente estou em transição de carreira para área de dados e em busca de uma oportunidade para desenvolver todo o meu potencial.
 
 ### Contatos
-
+[![E-MAIL](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=30A3DC)](clarianegalvao@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/clariane-galv%C3%A3o-bb5a6756/)
+[![Github](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://github.com/ClariMoon)
 
 ## **PROJETOS**
 
