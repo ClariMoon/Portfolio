@@ -16,11 +16,14 @@ Sou formada em Engenharia Química e já atuei como Engenheira de Processos em u
 
 ## PYTHON
 
+### ETL - Mensagens personalizadas do clima utilizando IA | Desafio DIO
+Neste repositório foi utilizado uma IA Generativa para criar mensagens de sobre previsão do clima personalizadas que serão entregues de acordo com a cidade. Para desenvolver o script, foi utilizado a pipeline ETL. [Clique aqui](https://github.com/ClariMoon/ETL-Desafio-DIO.git) para acessar o repositório completo.
+
 ## POWER BI
 
 ## SQL
 
-### Exercício Bootcamp WOMAKERSCODE
+### Comandos CRUD | Exercício Bootcamp WOMAKERSCODE
 Aqui neste repositório pude praticar alguns comandos CRUD de **SQL** aprendidos na aula "Banco de Dados SQL". Para as consultas do banco de dados proposto foi utilizado a linguagem **Python**, e os comandos foram feitos com a biblioteca **sqlite3**. [Clique aqui](https://github.com/ClariMoon/Exercicio_SQL_Womakers.git) para acessar o repositório completo.
 
 
