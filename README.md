@@ -13,13 +13,16 @@ Sou formada em Engenharia Química e já atuei como Engenheira de Processos em u
 [![Github](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://github.com/ClariMoon)
 
 ## **PROJETOS**
+*-----EM CONSTRUÇÃO-----*
 
 ## PYTHON
 
-### ETL - Mensagens personalizadas do clima utilizando IA | Desafio DIO
+### ETL - Mensagens personalizadas do clima utilizando IA | Desafio Bootcamp DIO
 Neste repositório foi utilizado uma IA Generativa para criar mensagens de sobre previsão do clima personalizadas que serão entregues de acordo com a cidade. Para desenvolver o script, foi utilizado a pipeline ETL. [Clique aqui](https://github.com/ClariMoon/ETL-Desafio-DIO.git) para acessar o repositório completo.
 
 ## POWER BI
+### Processamento de Dados Simplificado com Power BI | Desafio Bootcamp DIO
+Neste repositório foi trabalhado com a plataforma **Azure** para amrmazenamento do banco de dados, utilizando uma instância em **MySQL** e integrando com Power BI para criação de relatório. O tratamento dos dados e o relatório com visualizações gráficas foram realizadas no Power BI. [Clique aqui](https://github.com/ClariMoon/PowerBI-DIO-Desafio2.git) para acessar o repositório completo.
 
 ## SQL
 
